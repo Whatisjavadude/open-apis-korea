@@ -1116,3 +1116,13 @@
 - [Kakao Developers](https://developers.kakao.com)
 - [Google Developers](https://developers.google.com)
 - [facebook for developers](https://developers.facebook.com)
+
+
+
+
+-----
+
+<!-- 아래 줄은 GitHub Fork&Branch 실습을 위해 추가된 내용입니다. -->
+## 연습용 변경 사항
+이 줄은 GitHub Fork & Branch 실습을 위해 추가되었습니다.
+_(나중에 삭제 예정)_
