@@ -1117,9 +1117,7 @@
 - [Google Developers](https://developers.google.com)
 - [facebook for developers](https://developers.facebook.com)
 
-
-
-
+<!--this is practicing GitHub PR&Review request-->
 -----
 
 <!-- 아래 줄은 GitHub Fork&Branch 실습을 위해 추가된 내용입니다. -->
